@@ -1,1 +1,1 @@
-[landing](https://github.com/netology-code/git-homeworks/blob/master/introduction/assets/landing.pdf)
+![landing](/git-homeworks-neuro/landing.png)
